@@ -1,0 +1,16 @@
+        body
+        {background-color: rgb(96, 101, 105); 
+        background-image: url(../img/bg2.jpg); 
+        background-repeat: no-repeat;
+        background-position: left top;
+        background-attachment: fixed;}
+
+        section
+        {height:100%;
+        position: relative;
+        padding: 50px;}
+
+        footer
+        {position: absolute; 
+        bottom: 0; 
+        width: 100%;}
